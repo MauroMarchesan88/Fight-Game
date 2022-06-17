@@ -132,7 +132,7 @@ const enemy = new Fighter({
             framesMax: 3
         },
         death: {
-            imageSrc: './img/Death2.png',
+            imageSrc: './img/Death2b.png',
             framesMax: 7
         }
     },
