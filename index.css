@@ -2,10 +2,20 @@
     box-sizing: border-box;
     font-family: 'Press Start 2P', cursive;
 }
+
+body {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #818cf8;
+}
+
 #topBar {
     position: relative;
     display: inline-block;
 }
+
 #smallBar {
     position: absolute;
     display: flex;
